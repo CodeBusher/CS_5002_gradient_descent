@@ -1,0 +1,63 @@
+Parameter Hyper Tuning x0:
+f(x) = x * x
+iter_total = 30, x_optimal = 0.003713820117856142
+x0 = 3, alpha = 0.1, eps = 0.001, x_opt = 0.003713820117856142
+--------------------
+iter_total = 30, x_optimal = -0.003713820117856142
+x0 = -3, alpha = 0.1, eps = 0.001, x_opt = -0.003713820117856142
+--------------------
+f(x) = x * x - 2 * x + 3
+iter_total = 28, x_optimal = 1.0038685626227668
+x0 = 3, alpha = 0.1, eps = 0.001, x_opt = 1.0038685626227668
+--------------------
+iter_total = 31, x_optimal = 0.9960385918742868
+x0 = -3, alpha = 0.1, eps = 0.001, x_opt = 0.9960385918742868
+--------------------
+
+
+Parameter Hyper Tuning alpha:
+f(x) = x * x
+iter_total = 1000, x_optimal = 3
+x0 = 3, alpha = 1, eps = 0.001, x_opt = 3
+--------------------
+iter_total = 896, x_optimal = 0.49898357267925425
+x0 = 3, alpha = 0.001, eps = 0.001, x_opt = 0.49898357267925425
+--------------------
+iter_total = 1, x_optimal = 2.9994
+x0 = 3, alpha = 0.0001, eps = 0.001, x_opt = 2.9994
+--------------------
+f(x) = x * x - 2 * x + 3
+iter_total = 1000, x_optimal = 3
+x0 = 3, alpha = 1, eps = 0.001, x_opt = 3
+--------------------
+iter_total = 694, x_optimal = 1.4984546468847182
+x0 = 3, alpha = 0.001, eps = 0.001, x_opt = 1.4984546468847182
+--------------------
+iter_total = 1, x_optimal = 2.9996
+x0 = 3, alpha = 0.0001, eps = 0.001, x_opt = 2.9996
+--------------------
+
+
+Parameter Hyper Tuning epsilon:
+f(x) = x * x
+iter_total = 10, x_optimal = 0.32212254720000005
+x0 = 3, alpha = 0.1, eps = 0.1, x_opt = 0.32212254720000005
+--------------------
+iter_total = 20, x_optimal = 0.03458764513820541
+x0 = 3, alpha = 0.1, eps = 0.01, x_opt = 0.03458764513820541
+--------------------
+iter_total = 40, x_optimal = 0.00039876839873547495
+x0 = 3, alpha = 0.1, eps = 0.0001, x_opt = 0.00039876839873547495
+--------------------
+f(x) = x * x - 2 * x + 3
+iter_total = 8, x_optimal = 1.33554432
+x0 = 3, alpha = 0.1, eps = 0.1, x_opt = 1.33554432
+--------------------
+iter_total = 18, x_optimal = 1.036028797018964
+x0 = 3, alpha = 0.1, eps = 0.01, x_opt = 1.036028797018964
+--------------------
+iter_total = 39, x_optimal = 1.0003323069989463
+x0 = 3, alpha = 0.1, eps = 0.0001, x_opt = 1.0003323069989463
+--------------------
+
+

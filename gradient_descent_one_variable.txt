@@ -1,0 +1,20 @@
+Testing gradient descent algorithm for one variable:
+iter_total = 30, x_optimal = 0.003713820117856142
+iter_total = 28, x_optimal = 1.0038685626227668
+
+
+Testing gradient descent algorithm by derivative approximation:
+iter_total = 30, x_optimal = 0.003713820117856142
+iter_total = 30, x_optimal = 0.003713320736812896
+--------------------
+f(x) = x * x
+f1_opt_x_e = 0.003713820117856142
+f1_opt_x_a = 0.003713320736812896
+--------------------
+iter_total = 28, x_optimal = 1.0038685626227668
+iter_total = 28, x_optimal = 1.0038680635896498
+--------------------
+f(x) = x * x - 2 * x + 3
+f2_opt_x_e = 1.0038685626227668
+f2_opt_x_a = 1.0038680635896498
+--------------------
